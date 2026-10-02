@@ -1,3 +1,5 @@
+import React from "react";
+
 import { ArrowUpRight } from "lucide-react";
 
 import { business } from "../data/business";

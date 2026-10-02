@@ -1,3 +1,5 @@
+import React from "react";
+
 import { ExternalLink, Star } from "lucide-react";
 
 import { business } from "../data/business";

@@ -1,3 +1,5 @@
+import React from "react";
+
 import { cakeImages } from "../data/cakes";
 import ImageFrame from "./ImageFrame";
 
